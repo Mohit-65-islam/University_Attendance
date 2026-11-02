@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Student** | Pritom Kumar Sen Anom |
-| **Student ID** | IT24061 |
+| **Student** | Mohitul Islam |
+| **Student ID** | IT24065 |
 | **Department** | ICT, Mawlana Bhashani Science and Technology University (MBSTU) |
 | **Session** | 2023-2024 |
 | **Course** | Software Engineering and Project Management (ICT3107) |
