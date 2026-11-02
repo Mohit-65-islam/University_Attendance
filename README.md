@@ -1,4 +1,4 @@
-# UniAttend: A Web-Based University Attendance Management System
+# University_Attendance: A Web-Based University Attendance Management System
 
 | | |
 |---|---|
@@ -10,7 +10,7 @@
 | **Instructor** | Dr. Ziaur Rahman |
 | **Assignment** | Final Capstone Project, Part I: Proposal and Prototyping |
 
-**UniAttend** is a proposed web application that replaces paper attendance sheets in a university. A teacher shares a join link with a course, students join with their university email, the teacher records attendance for each class (1 to 5 hours long), and students see their own attendance and percentage. An administrator manages courses and sees department reports.
+**University_Attendance** is a proposed web application that replaces paper attendance sheets in a university. A teacher shares a join link with a course, students join with their university email, the teacher records attendance for each class (1 to 5 hours long), and students see their own attendance and percentage. An administrator manages courses and sees department reports.
 
 > **Current project status:** This repository contains the project proposal, six UML diagrams, a Gantt chart and an interactive front-end prototype with automated rule tests. The Java Spring Boot backend and MySQL database are planned for Phase 3 and are **not implemented yet**. The prototype keeps its demo data in the browser's `localStorage`, so a refresh or a second tab keeps it (for example the teacher in one tab and a student joining in another). This works only inside one browser on one computer, and the *Reset demo data* link on the sign-in screen clears it. It is **not** a database.
 
